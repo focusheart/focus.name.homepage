@@ -1,2 +1,4 @@
-# focus.name.homepage
-Homepage of focus.name
+# Homepage of focus.name
+
+Source code of homepage related.
+It's quite simple!
